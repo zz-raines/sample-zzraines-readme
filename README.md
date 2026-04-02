@@ -7,6 +7,6 @@ _I am working on my Bachelors in Cybersecurity with a wish to use my degree to c
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)]((https://github.com/zz-raines/zzraines-profile))
 
 _"Do or Do not. There is no try. - Yoda"_
